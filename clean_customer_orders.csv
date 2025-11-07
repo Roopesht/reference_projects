@@ -1,0 +1,6 @@
+order_id,customer_id,amount,date,name,email
+1001,1,250.0,2024-12-01,John Doe,john.doe@gmail.com
+1002,2,300.5,2024-12-05,Jane Smith,jane.smith@yahoo.com
+1004,4,200.0,2024-11-28,John Doe,john.doe@gmail.com
+1005,5,260.15,2024-12-10,Mary Johnson,mary.johnson@outlook.com
+1006,99,400.0,2024-12-15,,

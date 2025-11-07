@@ -1,0 +1,7 @@
+customer_id,name,email
+1,JOHN DOE,john.doe@GMAIL.COM
+2,jane smith,JANE.SMITH@Yahoo.Com
+3,Robert Brown,robert.brown@gmail.com
+4,John Doe,john.doe@gmail.com
+5,Mary Johnson,MARY.JOHNSON@outlook.com
+6,,noemail@example.com

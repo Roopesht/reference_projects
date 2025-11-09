@@ -1,0 +1,112 @@
+date,product,category,region,quantity,revenue,price,discount
+2023-01-15,Ultra Laptop,Electronics,North,2,2400,1200,0.00
+2023-01-20,Office Chair,Furniture,South,5,750,150,0.00
+2023-02-05,Wireless Mouse,Electronics,East,15,225,15,0.00
+2023-02-12,Desk Lamp,Home Goods,West,8,160,20,0.00
+2023-02-28,Smartphone X,Electronics,North,3,2700,900,0.00
+2023-03-10,Ergonomic Keyboard,Electronics,South,12,600,50,0.00
+2023-03-22,Coffee Maker,Appliances,East,6,420,70,0.00
+2023-04-05,Bluetooth Speaker,Electronics,West,10,800,80,0.00
+2023-04-18,Bookshelf,Furniture,North,4,1200,300,0.00
+2023-05-02,Fitness Tracker,Electronics,South,20,1000,50,0.00
+2023-05-15,Air Purifier,Appliances,East,7,1050,150,0.00
+2023-06-01,Gaming Monitor,Electronics,West,5,1500,300,0.00
+2023-06-20,Standing Desk,Furniture,North,3,900,300,0.00
+2023-07-08,Tablet Pro,Electronics,South,8,3200,400,0.00
+2023-07-25,Microwave,Appliances,East,9,630,70,0.00
+2023-08-12,Office Chair,Furniture,West,6,900,150,0.00
+2023-08-30,Noise Cancelling Headphones,Electronics,North,11,1650,150,0.00
+2023-09-14,Desk Organizer,Home Goods,South,25,375,15,0.00
+2023-09-28,Refrigerator,Appliances,East,2,1800,900,0.00
+2023-10-10,Gaming Laptop,Electronics,West,4,4800,1200,0.00
+2023-10-29,Bookshelf,Furniture,North,5,1500,300,0.00
+2023-11-15,Smart Watch,Electronics,South,18,2700,150,0.00
+2023-11-30,Vacuum Cleaner,Appliances,East,7,980,140,0.00
+2023-12-12,Wireless Earbuds,Electronics,West,22,1100,50,0.00
+2023-12-28,Office Desk,Furniture,North,3,1200,400,0.00
+2024-01-08,4K TV,Electronics,South,4,2000,500,0.00
+2024-01-22,Toaster,Appliances,East,12,360,30,0.00
+2024-02-05,Computer Monitor,Electronics,West,9,1350,150,0.00
+2024-02-19,Dining Table,Furniture,North,2,1600,800,0.00
+2024-03-03,Digital Camera,Electronics,South,6,3000,500,0.00
+2024-03-17,Blender,Appliances,East,8,400,50,0.00
+2024-04-01,Tablet Mini,Electronics,West,15,3000,200,0.00
+2024-04-15,Sofa,Furniture,North,1,1200,1200,0.00
+2024-04-29,Smartphone Y,Electronics,South,10,8000,800,0.00
+2024-05-12,Dishwasher,Appliances,East,4,2400,600,0.00
+2024-05-26,Wireless Mouse,Electronics,West,18,270,15,0.00
+2024-06-08,Office Chair,Furniture,North,7,1050,150,0.00
+2024-06-21,Laptop Stand,Electronics,South,20,600,30,0.00
+2024-07-05,Air Fryer,Appliances,East,11,880,80,0.00
+2024-07-19,Gaming Console,Electronics,West,6,1800,300,0.00
+2024-08-02,Bookshelf,Furniture,North,4,1200,300,0.00
+2024-08-16,Smart Speaker,Electronics,South,14,700,50,0.00
+2024-08-30,Washing Machine,Appliances,East,3,1500,500,0.00
+2024-09-13,Monitor Arm,Electronics,West,13,650,50,0.00
+2024-09-27,Dining Chair,Furniture,North,10,800,80,0.00
+2024-10-11,Action Camera,Electronics,South,8,1600,200,0.00
+2024-10-25,Coffee Grinder,Appliances,East,9,450,50,0.00
+2024-11-08,External SSD,Electronics,West,25,1250,50,0.00
+2024-11-22,TV Stand,Furniture,North,6,900,150,0.00
+2024-12-06,Fitness Band,Electronics,South,30,900,30,0.00
+2024-12-20,Toaster Oven,Appliances,East,7,420,60,0.00
+2023-01-10,Wireless Keyboard,Electronics,International,8,320,40,0.00
+2023-02-15,Office Chair,Furniture,International,4,600,150,0.00
+2023-03-20,Tablet Pro,Electronics,International,5,2000,400,0.00
+2023-04-25,Desk Lamp,Home Goods,International,12,240,20,0.00
+2023-05-30,Smartphone X,Electronics,International,7,6300,900,0.00
+2023-06-15,Coffee Maker,Appliances,International,5,350,70,0.00
+2023-07-20,Gaming Monitor,Electronics,International,3,900,300,0.00
+2023-08-25,Standing Desk,Furniture,International,2,600,300,0.00
+2023-09-30,Air Purifier,Appliances,International,6,900,150,0.00
+2023-10-15,Noise Cancelling Headphones,Electronics,International,9,1350,150,0.00
+2023-11-20,Refrigerator,Appliances,International,1,900,900,0.00
+2023-12-25,Gaming Laptop,Electronics,International,2,2400,1200,0.00
+2024-01-05,Smart Watch,Electronics,International,12,1800,150,0.00
+2024-02-10,Vacuum Cleaner,Appliances,International,4,560,140,0.00
+2024-03-15,4K TV,Electronics,International,3,1500,500,0.00
+2024-04-20,Office Desk,Furniture,International,3,1200,400,0.00
+2024-05-25,Digital Camera,Electronics,International,4,2000,500,0.00
+2024-06-30,Sofa,Furniture,International,1,1200,1200,0.00
+2024-07-15,Dishwasher,Appliances,International,2,1200,600,0.00
+2024-08-20,Gaming Console,Electronics,International,4,1200,300,0.00
+2024-09-25,Washing Machine,Appliances,International,2,1000,500,0.00
+2024-10-30,Action Camera,Electronics,International,6,1200,200,0.00
+2023-01-08,Basic Mouse,Electronics,North,20,200,10,0.00
+2023-02-14,Desk Fan,Home Goods,South,15,225,15,0.00
+2023-03-21,Phone Case,Electronics,East,25,250,10,0.00
+2023-04-16,Water Bottle,Home Goods,West,30,150,5,0.00
+2023-05-19,USB Cable,Electronics,North,40,200,5,0.00
+2023-06-24,Notebook,Office Supplies,South,50,100,2,0.00
+2023-07-29,Pens,Office Supplies,East,100,50,0.5,0.00
+2023-08-31,Stapler,Office Supplies,West,8,40,5,0.00
+2023-09-26,Highlighter,Office Supplies,North,25,38,1.5,0.00
+2023-10-21,Binder,Office Supplies,South,12,60,5,0.00
+2023-11-16,Paper Clips,Office Supplies,East,200,20,0.1,0.00
+2023-12-11,Scissors,Office Supplies,West,15,45,3,0.00
+2024-01-06,File Folders,Office Supplies,North,30,90,3,0.00
+2024-02-01,Whiteboard,Office Supplies,South,5,100,20,0.00
+2024-03-07,Markers,Office Supplies,East,20,60,3,0.00
+2024-04-02,Tape Dispenser,Office Supplies,West,10,30,3,0.00
+2024-05-09,Calculator,Electronics,North,8,120,15,0.00
+2024-06-04,Desk Calendar,Office Supplies,South,12,48,4,0.00
+2024-07-11,Printer Paper,Office Supplies,East,25,75,3,0.00
+2024-08-06,Sticky Notes,Office Supplies,West,40,40,1,0.00
+2024-09-01,Ruler,Office Supplies,North,15,15,1,0.00
+2024-10-07,Envelopes,Office Supplies,South,60,60,1,0.00
+2024-11-02,Notebooks,Office Supplies,East,35,70,2,0.00
+2024-12-09,Pencils,Office Supplies,West,80,40,0.5,0.00
+2023-11-30,Luxury Watch,Electronics,North,1,15000,15000,0.00
+2024-03-15,Enterprise Server,Electronics,South,1,25000,25000,0.00
+2024-06-20,Industrial Printer,Electronics,East,1,18000,18000,0.00
+2023-08-10,Custom Sofa,Furniture,West,1,12000,12000,0.00
+2024-09-05,Smart Home System,Electronics,North,1,22000,22000,0.00
+2023-12-20,Broken Item,Electronics,South,1,-500,-500,0.00
+2024-02-28,Returned Product,Appliances,East,1,-800,-800,0.00
+2024-05-15,Defective Unit,Furniture,West,1,-1200,-1200,0.00
+2024-08-22,Warranty Claim,Electronics,North,1,-1500,-1500,0.00
+2023-10-05,Clearance Item,Home Goods,South,50,50,100,0.50
+2024-01-18,Seasonal Sale,Electronics,East,10,4500,500,0.10
+2024-04-12,Promotional Deal,Appliances,West,5,1600,400,0.20
+2024-07-30,Bulk Discount,Furniture,North,20,2400,150,0.20
+2024-10-15,Black Friday,Electronics,South,15,10200,800,0.15
